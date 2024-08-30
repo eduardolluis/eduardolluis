@@ -1,0 +1,35 @@
+name: Update Animation
+
+on:
+  push:
+    branches:
+      - main 
+jobs:
+  update-animation:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run update script
+      run: node update-animation.js  
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'path/to/animation.svg'  
+        message: 'Update contribution animation'
+        author_name: 'GitHub Actions'
+        author_email: 'actions@github.com'
+
+    - name: Push changes
+      run: git push origin main
