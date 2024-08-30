@@ -43,7 +43,6 @@
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/eduardolluis/README/output/snake.svg" alt="Snake animation" />
+![Mis Contribuciones](https://github.com/eduardolluis/eduardolluis/raw/main/contributions.gif)
 
 ###
