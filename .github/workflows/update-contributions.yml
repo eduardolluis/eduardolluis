@@ -1,0 +1,26 @@
+name: Update Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecutar cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Update Contributions
+      run: |
+        # Aquí irían los comandos para actualizar tu imagen animada
+        # Puedes usar un script para obtener la imagen de contribuciones
+        curl -o contributions.gif https://example.com/path/to/your/contributions/animation
+        # Luego, podrías usar `git` para actualizar la imagen en tu repositorio
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add contributions.gif
+        git commit -m "Update contributions animation"
+        git push
