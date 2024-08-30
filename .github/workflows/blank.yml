@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - output
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: eduardolluis
+          output: dist/snake.svg
+
+      - name: Push generated snake
+        run: |
+          git config user.name "eduardolluis"
+          git config user.email "eduardodelacruzg4@gmail.com"
+          git add -A
+          git commit -m "Generate snake animation"
+          git push
