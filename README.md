@@ -38,6 +38,9 @@
 - 🎮 I love gaming and developing small projects in my free time.
 
 
+![](https://komarev.com/ghpvc/?username=duardolluis&color=blue)
+
+
 
 <br clear="both">
 
