@@ -3,7 +3,6 @@
 <p align="center">
   Software Engineering Student | Mobile & Web Developer | Backend Learner
 </p>
----
 
 ## About Me
 
