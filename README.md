@@ -3,12 +3,6 @@
 <p align="center">
   Software Engineering Student | Mobile & Web Developer | Backend Learner
 </p>
-
-<p align="center">
-  <a href="https://github.com/eduardolluis">GitHub</a> •
-  <a href="mailto:eduardodelacruzg4@gmail.com">Email</a>
-</p>
-
 ---
 
 ## About Me
