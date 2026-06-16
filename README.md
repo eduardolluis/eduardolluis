@@ -108,11 +108,6 @@ A Discord-inspired project focused on web interface structure and TypeScript dev
 
 ---
 
-## Contact
-
-- GitHub: [github.com/eduardolluis](https://github.com/eduardolluis)
-- Email: [eduardodelacruzg4@gmail.com](mailto:eduardodelacruzg4@gmail.com)
-
 ---
 
 <p align="center">
