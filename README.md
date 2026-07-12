@@ -80,18 +80,7 @@ A Flutter-based Twitter/X interface clone focused on mobile UI development, scre
 ### Discord Clone
 A Discord-inspired project focused on web interface structure and TypeScript development.
 
-**Technologies:** TypeScript
-
----
-## Currently Improving
-
-- Flutter mobile development
-- Frontend development with Next.js and Tailwind CSS
-- Backend development with Node.js, Express, and Python
-- REST API design and integration
-- Database modeling and authentication flows
-- Docker and development environment setup
-- Clean architecture and MVVM patterns
+**Technologies:** TypeScript, Nextjs
 
 ---
 
