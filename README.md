@@ -96,19 +96,6 @@ A Discord-inspired project focused on web interface structure and TypeScript dev
 ---
 
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardolluis&show_icons=true&theme=tokyonight" alt="Eduardo's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolluis&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
----
 
 <p align="center">
   Building, learning, and improving one project at a time.
