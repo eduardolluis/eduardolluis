@@ -54,36 +54,6 @@ My work is centered on clean organization, structured architectures such as MVVM
 
 ---
 
-## Featured Projects
-
-### Multi-Store E-Commerce App
-Mobile e-commerce application built with Flutter and Dart, focused on product browsing, structured screens, database integration, and payment flow concepts.
-
-**Technologies:** Flutter, Dart, Firebase, MySQL, Stripe
-
----
-
-### WhatsApp Clone
-Mobile messaging interface inspired by WhatsApp, built to practice UI structure, navigation, reusable components, and Flutter layout organization.
-
-**Technologies:** Flutter, Dart
-
----
-
-### Twitter Clone UI
-A Flutter-based Twitter/X interface clone focused on mobile UI development, screen composition, and responsive layout practices.
-
-**Technologies:** Flutter, Dart
-
----
-
-### Discord Clone
-A Discord-inspired project focused on web interface structure and TypeScript development.
-
-**Technologies:** TypeScript, Nextjs
-
----
-
 
 
 <p align="center">
