@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Eduardo Luis De La Cruz</h1>
 
 <p align="center">
-  Software Engineering Student | Mobile & Web Developer | Backend Learner
+  Software Engineering Student | Mobile & Web Developer | Flutter enthusiast
 </p>
 
 ## About Me
 
 I'm a Software Engineering student at INTEC, based in the Dominican Republic.  
-I focus on building mobile, web, and software solutions through personal and academic projects.
-
-My work is centered on clean organization, structured architectures such as MVVM, API integration, databases, and maintainable code. I enjoy learning by building real projects and improving them step by step.
+I focus on building mobile, web, and software solutions through personal projects.
 
 ---
 
