@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo Luis De La Cruz</h1>
 
 <p align="center">
-  Software Engineering Student | Mobile & Web Developer | Flutter enthusiast
+  Software Engineering Student | Mobile & Web Developer | Flutter Enthusiast
 </p>
 
 ## About Me
