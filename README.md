@@ -48,8 +48,7 @@ I enjoy working across the full development process — from frontend and mobile
 
 ### Other
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs" />
+
   <img src="https://skillicons.dev/icons?i=cs,cpp" />
 
 </p>
